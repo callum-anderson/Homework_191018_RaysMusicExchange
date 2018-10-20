@@ -10,7 +10,7 @@ public class Keyboard extends Instrument {
         this.numberOfKeys = numberOfKeys;
         this.addProductInfo("Hammer Action", this.hammerAction);
         this.addProductInfo("Type", this.type);
-        this.addProductInfo("Number Of Strings", Integer.toString(this.numberOfKeys));
+        this.addProductInfo("Number Of Keys", Integer.toString(this.numberOfKeys));
     }
 
     public String getHammerAction() {

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7438ddca-30b6-455b-b4e1-5c447ff78dcc" name="Default Changelist" comment="" />
+    <list default="true" id="7438ddca-30b6-455b-b4e1-5c447ff78dcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Keyboard.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -26,22 +28,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2504" />
+          <entry key="java" value="2896" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2504" />
+          <entry key="JAVA" value="2896" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -102,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/KeyboardTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="300">
+              <caret line="20" column="5" lean-forward="true" selection-end-line="56" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#360#361#0" expanded="true" />
@@ -127,6 +129,36 @@
                 <element signature="e#1201#1202#0" expanded="true" />
                 <element signature="e#1251#1252#0" expanded="true" />
                 <element signature="e#1315#1316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Percussion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#934#935#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+                <element signature="e#1202#1203#0" expanded="true" />
+                <element signature="e#1249#1250#0" expanded="true" />
+                <element signature="e#1306#1307#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,15 +198,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Keyboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Percussion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -505,8 +554,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Instrument.java" />
         <option value="$PROJECT_DIR$/src/test/java/GuitarTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StockItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Keyboard.java" />
         <option value="$PROJECT_DIR$/src/test/java/KeyboardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Percussion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Percussion.java" />
       </list>
     </option>
   </component>
@@ -570,7 +621,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540066785996" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540067481672" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -585,7 +636,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.KeyboardTest">
+  <component name="RunManager" selected="JUnit.PercussionTest">
     <configuration name="GuitarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RaysMusicExchange_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -602,12 +653,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PercussionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PercussionTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercussionTest.hasFamily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PercussionTest" />
+      <option name="METHOD_NAME" value="hasFamily" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.GuitarTest" />
       <item itemvalue="JUnit.KeyboardTest" />
+      <item itemvalue="JUnit.PercussionTest.hasFamily" />
+      <item itemvalue="JUnit.PercussionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PercussionTest" />
+        <item itemvalue="JUnit.PercussionTest.hasFamily" />
         <item itemvalue="JUnit.KeyboardTest" />
         <item itemvalue="JUnit.GuitarTest" />
       </list>
@@ -629,6 +702,15 @@
   <component name="TestHistory">
     <history-entry file="GuitarTest - 2018.10.20 at 21h 07m 06s.xml">
       <configuration name="GuitarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KeyboardTest - 2018.10.20 at 21h 18m 50s.xml">
+      <configuration name="KeyboardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KeyboardTest - 2018.10.20 at 21h 19m 24s.xml">
+      <configuration name="KeyboardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KeyboardTest - 2018.10.20 at 21h 19m 48s.xml">
+      <configuration name="KeyboardTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -735,21 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Keyboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GuitarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -778,10 +845,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Percussion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/KeyboardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-end-line="56" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#360#361#0" expanded="true" />
@@ -802,6 +899,34 @@
             <element signature="e#1201#1202#0" expanded="true" />
             <element signature="e#1251#1252#0" expanded="true" />
             <element signature="e#1315#1316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Percussion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
           </folding>
         </state>
       </provider>
