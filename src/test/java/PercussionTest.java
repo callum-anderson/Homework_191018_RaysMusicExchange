@@ -56,4 +56,9 @@ public class PercussionTest {
     public void hasNumberOfPieces() {
         assertEquals(5, drums.getNumberOfPieces());
     }
+
+    @Test
+    public void canPlay() {
+        assertEquals("Percussion/drums playing...", drums.play());
+    }
 }

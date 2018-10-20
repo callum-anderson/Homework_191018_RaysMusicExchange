@@ -56,4 +56,9 @@ public class KeyboardTest {
     public void hasNumberOfKeys() {
         assertEquals(88, piano.getNumberOfKeys());
     }
+
+    @Test
+    public void canPlay() {
+        assertEquals("Keyboard/piano playing...", piano.play());
+    }
 }

@@ -22,4 +22,8 @@ public class Keyboard extends Instrument {
     public int getNumberOfKeys() {
         return this.numberOfKeys;
     }
+
+    public String play(){
+        return "Keyboard/piano playing...";
+    }
 }

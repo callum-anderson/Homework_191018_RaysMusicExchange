@@ -3,7 +3,7 @@ package instruments;
 import mainshop.Family;
 import mainshop.StockItem;
 
-public abstract class Instrument extends StockItem {
+public abstract class Instrument extends StockItem implements IPlay {
     Enum<Family> family;
     Boolean electric;
     String type;

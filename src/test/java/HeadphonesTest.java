@@ -8,6 +8,7 @@ public class HeadphonesTest {
     Headphones headphones;
     @Before
     public void before(){
+
         headphones = new Headphones("Sennheiser HP25", 16.00, 35.00, "Closed Cup", "Black", true);
     }
 

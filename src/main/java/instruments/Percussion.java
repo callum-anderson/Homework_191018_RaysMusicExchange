@@ -21,4 +21,8 @@ public class Percussion extends Instrument {
     public int getNumberOfPieces() {
         return this.numberOfPieces;
     }
+
+    public String play(){
+        return "Percussion/drums playing...";
+    }
 }

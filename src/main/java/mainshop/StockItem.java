@@ -2,7 +2,7 @@ package mainshop;
 
 import java.util.HashMap;
 
-public abstract class StockItem {
+public abstract class StockItem implements ISell {
     private double buyingPrice;
     private double sellingPrice;
     private String modelDescription;
