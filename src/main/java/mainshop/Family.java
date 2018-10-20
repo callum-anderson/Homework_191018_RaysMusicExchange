@@ -1,3 +1,5 @@
+package mainshop;
+
 public enum Family {
     BOWEDSTRING,
     BRASS,

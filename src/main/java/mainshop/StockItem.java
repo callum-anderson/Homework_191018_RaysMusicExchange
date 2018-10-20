@@ -1,3 +1,5 @@
+package mainshop;
+
 import java.util.HashMap;
 
 public abstract class StockItem {
