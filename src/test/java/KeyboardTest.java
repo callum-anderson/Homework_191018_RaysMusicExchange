@@ -61,4 +61,14 @@ public class KeyboardTest {
     public void canPlay() {
         assertEquals("Keyboard/piano playing...", piano.play());
     }
+
+    @Test
+    public void getFullProductInfoFieldCount(){
+        assertEquals(9, piano.getProductInfo().size());
+    }
+
+    @Test
+    public void getFullProductInfoField(){
+        assertEquals("Weighted", piano.getProductInfo().get("Hammer Action"));
+    }
 }

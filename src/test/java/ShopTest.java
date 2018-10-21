@@ -46,4 +46,10 @@ public class ShopTest {
         shop.addStockItem(drums);
         assertEquals(5, shop.stockCount());
     }
+
+    @Test
+    public void canCalculateTotalPotentialProfit(){
+        assertEquals(3606.85, shop.totalPotentialProfit(), 0.01);
+    }
+
 }
